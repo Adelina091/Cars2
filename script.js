@@ -55,6 +55,20 @@ const cars_info = {
             "img": "https://www.10wallpaper.com/wallpaper/1920x1080/1110/Mitsubishi_Super_car_Concept_1920x1080.jpg",
             "text": "The first generation Mitsubishi used technologies such as all-wheel drive, four active wheels, active aerodynamics involving automatically adjustable front and rear spoilers, and electronic control suspension (ECS). There was no active aerodynamics on the Dodge Stealth. The 3000GT engine had four camshafts, two turbochargers with an intercooler and multi-point fuel injection into the cylinders. The second generation of the model differs from the first primarily in the modified front and rear bumpers, as well as in the side air intakes. The interior has also been redone, there are 2 airbags, a new audio system and air conditioning.",
             "price": "38.000$"
+        },
+        {
+            "id": 9,
+            "name": "Audi",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-qUgHAYI0FPgaliVDAFI9fasJPhRhD9hVR3gHW3umg&s",
+            "text": "The model is a hybrid concept car presented in 2013 at the Geneva Motor Show. In May 2013, Audi confirmed its decision to begin production of a hybrid version of the Audi A3 Sportback e-tron, retail sales will begin at the end of 2013 in Europe, and in mid-2014 in the US and UK. The model is equipped with a 1.4 liter L TFSI petrol engine, providing 148 hp. and 184 Nm of torque, combined with 101 hp. electric motor, which is integrated into a six-speed dual-clutch automatic transmission, the total power of the car is 201 hp. and 243 Nm of torque.",
+            "price": "28.000$"
+        },
+        {
+            "id": 10,
+            "name": "Lamborghini",
+            "img": "https://s1.1zoom.me/b5956/608/Lamborghini_LP_610-4_Huracan_Grey_526754_1920x1080.jpg",
+            "text": "Lamborghini grew rapidly during its first ten years, but sales fell in the wake of the 1973 worldwide financial downturn and the oil crisis. Ferruccio Lamborghini sold the company to Georges-Henri Rossetti and René Leimer and retired in 1974. The company went bankrupt in 1978, and was placed in the receivership of brothers Jean-Claude and Patrick Mimran in 1980. The Mimrans purchased the company out of receivership by 1984 and invested heavily in its expansion. Under the Mimrans' management, Lamborghini's model line was expanded from the Countach to include the Jalpa sports car and the LM002 high-performance off-road vehicle.",
+            "price": "50.000$"
         }
     ]
 }
