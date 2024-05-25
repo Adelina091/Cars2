@@ -10,6 +10,7 @@ body{
     margin: 0 auto;
     width: 1280px;
 }
+
 .finder{
     display: flex;
     justify-content: center;
@@ -17,12 +18,13 @@ body{
     align-items: center;
     margin-top: 20px;
 }
+
 .bigFont{
     font-size: 25px;
     padding: 10px;
     text-align: center;
-    
 }
+
 .card-title{
     display: flex;
     margin: 0 auto;
@@ -36,6 +38,7 @@ body{
     top: -2px;
     border-radius: 2px;
 }
+
 .card-price{
     display: flex;
     margin: 0 auto;
@@ -43,6 +46,7 @@ body{
     justify-content: center;
     background: lightgreen;
 }
+
 .mediumFont{
     font-size: 15px;
     padding: 10px;
@@ -51,15 +55,17 @@ body{
 .random{
     width: 30px;
 }
+
 img{
     width: 500px;
     border-radius: 10px 10px 0px 0px;
-
 }
+
 .search{
     display: flex;
     margin-bottom: 40px;
 }
+
 .search svg{
     background: cyan;
     border-radius: 10px;
@@ -74,12 +80,18 @@ img{
     box-shadow: 0px 0px 10px 0px;
     margin-bottom: 20px;
 }
+
+.card:last-child{
+    margin-bottom: 0px;
+}
+
 .card-text{
     display: flex;
     text-align: center;
     width: 450px;
     margin: 0 auto;
 }
+
 input{
     height: 20px;
     outline: none;
@@ -98,7 +110,6 @@ input{
     margin-top: 50px;
     animation: fadeInAnimation ease 1s;
 }
-
 
 @keyframes fadeInAnimation {
     0% {
